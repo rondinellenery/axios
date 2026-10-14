@@ -1,22 +1,26 @@
 {
-"users": [
-    {
-        "id": 1,
-        "name": "rondi",
-        "E-mail": "rondipaper@gmail.com"
-    }
-],
-"products": [
-    {
-        "id": 1,
-        "name": "laptop",
-        "price": 1000
-    },
-    {
-        "id": 2,
-        "name": "phone",
-        "price": 500
-    }
-]
-
+    "users": [
+        {
+            "id": 1,
+            "nome": "Carlos",
+            "E-mail": "carlos@email.com"
+        },
+        {
+            "id": 2,
+            "nome": "Mariana",
+            "E-mail": "marian@email.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "nome": "Mouse Óptico",
+            "Valor": 99.99
+        },
+        {
+            "id": 2,
+            "nome": "Teclado Mecânico",
+            "Valor": 999.99
+        }
+    ]
 }
