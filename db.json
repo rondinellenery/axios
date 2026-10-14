@@ -1,0 +1,22 @@
+{
+"users": [
+    {
+        "id": 1,
+        "name": "rondi",
+        "E-mail": "rondipaper@gmail.com"
+    }
+],
+"products": [
+    {
+        "id": 1,
+        "name": "laptop",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "name": "phone",
+        "price": 500
+    }
+]
+
+}
